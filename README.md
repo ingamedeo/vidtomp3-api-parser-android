@@ -49,7 +49,7 @@ Check out my code!
 * Clone this repo below
 
 ```sh
-https://github.com/ingamedeo/DatabaseTest.git
+https://github.com/ingamedeo/vidtomp3-api-parser-android.git
 ```
 
 License
