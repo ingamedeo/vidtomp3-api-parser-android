@@ -52,10 +52,3 @@ Check out my code!
 https://github.com/ingamedeo/vidtomp3-api-parser-android.git
 ```
 
-License
-----
-
-DWTFYW (Explanation below)
-
-
-###### Do What the Fuck You Want
